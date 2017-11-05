@@ -1,4 +1,4 @@
-![Social AI Robot Sophia](assets/sopia.jpg)
+![Social AI Robot Sophia](assets/sofia.jpg)
 
 # Solving Usual Problems of Developing Countries Through AI and Other Tech-buzzwords
 

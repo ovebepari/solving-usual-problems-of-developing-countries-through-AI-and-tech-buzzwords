@@ -15,7 +15,7 @@ Just for a bit of motivation:
 
 In 1993, Bangladesh Govt had an outstanding approach to solve hunger as it was causing more dropouts in primary education. They launched [Food for Education](http://www.ifpri.org/publication/food-education-program-bangladesh) program. The FFE program provides a free monthly ration of rice or wheat to poor families if their children attend primary school. The goals of this program are to increase primary school enrollment, promote attendance, reduce dropout rates, and enhance the quality of education.
 
-Instead of providing food everywhere, we might use `Data Science` to determine which region needs what to keep the primary school crowd rolling. 
+Instead of providing food everywhere, we might use `Data Science` and freely available govt data to determine which region needs what to keep the primary school crowd rolling. 
 
 
 ### Traffic Jam

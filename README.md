@@ -12,6 +12,7 @@ A curated list of usual problems in developing countries and how to solve them w
 Dropping rates of primary education is decreasing, but slowly. But with the tech we have today, we won't let another Steve Jobs fade away. We can diminish the dropping rate totally. If we analyze the available data to determine regional problems (a region might have hunger problem but another might have disease problem) and with the help of government, we can make the world a better place, maybe at least for some kids.
 
 Just for a bit of motivation:
+
 In 1993, Bangladesh Govt had an outstanding approach to solve hunger as it was causing more dropouts in primary education. They launched [Food for Education](http://www.ifpri.org/publication/food-education-program-bangladesh) program. The FFE program provides a free monthly ration of rice or wheat to poor families if their children attend primary school. The goals of this program are to increase primary school enrollment, promote attendance, reduce dropout rates, and enhance the quality of education.
 
 Instead of providing food everywhere, we might use `Data Science` to determine which region needs what to keep the primary school crowd rolling. 

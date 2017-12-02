@@ -22,3 +22,8 @@ Instead of providing food everywhere, we might use `Data Science` and freely ava
 Well, it has been the key problem that stops a developing country to move forward. How can a country progress when the people who makes it progress get stuck on a traffic jam, wasting time for nothing. If we start connecting all the vehicles with each other (`IOT`), gather data and process that data with Advanced Algorithm or `AI`, with a bit help of `Google Maps`, maybe we can solve the traffic problem without constructing more roads.
 
 Implementing IOT might stay as a theory for many years in a developing country as the cars just started to use this technology. Instead, we might use a few previous years of traffic data to build a ML algorithm that might take some considerations as national holidays, inter-political events, national depression days (damn, we lost that cricket match) to indicate a jam free route.
+
+**Fortunately Google has already solved this problem, it seems. Someone has to. Someone will.**
+Red maked roads are the routes you simply have to ignore.
+
+![Google Maps, Traffic Mode](assets/gmap.png)

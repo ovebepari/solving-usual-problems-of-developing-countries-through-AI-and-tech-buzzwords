@@ -27,3 +27,6 @@ Implementing IOT might stay as a theory for many years in a developing country a
 Red maked roads are the routes you simply have to ignore.
 
 ![Google Maps, Traffic Mode](assets/gmap.png)
+
+### Speeding Up Slow Internet
+Well, everyone knows that internet is slow in most of the areas of a developing country. One thing can be done to speed things up and that is by not using any OS that asks but not gives any choice to cancel updating it. Switching to Linux should help saving a lot of data and making it a better place at the end of the day.
